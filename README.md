@@ -26,7 +26,6 @@ The application features a comprehensive main tab that displays the top 100 cryp
 
 ## Demo
 
-You can see a live demo of the CryptoTrack application [right here](https://feliperdamaceno.github.io/crypto-tracker).
 
 ![page-showcase](app-showcase/app-showcase-1.gif)
 
